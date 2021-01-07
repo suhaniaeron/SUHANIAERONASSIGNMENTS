@@ -1,0 +1,45 @@
+<html>
+<head>
+<title> JANE AUSTEN </title>
+<style type= "text/css">
+body{ background-color:RGB(255,251,214)}
+a:link{text-decoration:none}
+a:visited{color:blue; text-decoration:none;padding:14px25px;display:inline-block;}
+a:hover{color:green;display:inline-block}
+a:active{color:purple;display:inline-block}
+</style>
+<head>
+<body style="border-style:dashed; border-width: 8px;">
+<br>
+<h1 style = text-align:center;color:red;font-size:50px;text-decoration:underline> <b>JANE AUSTEN</b> <H1></H1>
+<p style="text-align: center;"><img src="jane austen.jfif" alt="JANE AUSTEN" style="border: double 5px;height: 250px;"> </p>
+
+<DIV style=text-align:cente;background-color:white;height:500px >
+    <br>
+<ul style="list-style-type: none">
+<li style="list-style-type: none"><a href="C:\Users\suhan\OneDrive\Desktop\HTML CLASSES\ASSIGNMENT FOR SCHOOL\about.html" style=background-color:black;font-size:50px;border-style:solid;border-size:10px> About </a> </li>
+<br><br>
+<li style="list-style-type: none"><a href=" C:\Users\suhan\OneDrive\Desktop\HTML CLASSES\ASSIGNMENT FOR SCHOOL\BOOKS.html" style=background-color:black;color:pink;font-size:50px;border-style:solid> Books </a> </li> 
+<br><br>
+<li style="list-style-type: none"><a href="C:\Users\suhan\OneDrive\Desktop\HTML CLASSES\ASSIGNMENT FOR SCHOOL\pics.html"style=background-color:black;color:yellow;font-size:50px;border-style:solid> Pictures </a>
+
+
+<br> <br>
+<br>
+<li style="list-style-type: none;"><a href="C:\Users\suhan\OneDrive\Desktop\HTML CLASSES\ASSIGNMENT FOR SCHOOL\DEVELOPER (2).html"style=background-color:black;color:grey;font-size:50px;border-style:solid;> About the Website Developer </a>
+</div>
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
+<br>
+
+<hr>
+<h3 style=text-align:right;color:red;font-size:30px> ~Suhani Aeron </h3>
+</body>
+</html>
+
+
